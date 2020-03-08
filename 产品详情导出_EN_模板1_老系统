@@ -183,7 +183,7 @@ $FAQ_CF_2281$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>下单所需预留信息：</strong>
+<strong>Require</strong>
 </span>
 </h1>
 
@@ -198,14 +198,14 @@ $FAQ_CF_2323$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>费用包含：</strong>
+<strong>Included</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2319$
+$FAQ_CF_2349$
 </span>
 </dd>
 
@@ -213,37 +213,14 @@ $FAQ_CF_2319$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>费用不包含：</strong>
+<strong>Not Included</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2321$
-</span>
-</dd>
-
-</div>
-
-<div class="detail_mod activity_info" style="margin: -1px 0px 0px; padding: 30px 55px; border: 1px solid #dddddd; zoom: 1; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14px; font-family: 'microsoft yahei', simsun, sans-serif;">
-
-<h2 class="mod_title" style="margin: 0px 0px 20px -75px; padding: 0px 20px 0px 60px; height: 48px; color: #ffffff; background-color: #22b6d2; position: relative; width: 92px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 48px;">
-<strong>预定限制</strong>
-</h2>
-
-<h1 style="margin: 0px 0px 5px; padding: 0px; list-style: none; font-size: 18px;">
-<span style="font-size: 20px;">
-<strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
-<span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>儿童政策：</strong>
-</span>
-</h1>
-
-
-<dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
-<span style="color: #696969;">
-$FAQ_CF_2335$
+$FAQ_CF_2351$
 </span>
 </dd>
 
@@ -252,21 +229,21 @@ $FAQ_CF_2335$
 <div class="detail_mod activity_info" style="margin: -1px 0px 0px; padding: 30px 55px; border: 1px solid #dddddd; zoom: 1; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14px; font-family: 'microsoft yahei', simsun, sans-serif;">
 
 <h2 class="mod_title" style="margin: 0px 0px 20px -75px; padding: 0px 20px 0px 60px; height: 48px; color: #ffffff; background-color: #22b6d2; position: relative; width: 92px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 48px;">
-<strong>退改规则</strong>
+<strong>Who can book</strong>
 </h2>
 
 <h1 style="margin: 0px 0px 5px; padding: 0px; list-style: none; font-size: 18px;">
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>退改政策：</strong>
+<strong>Children Fee</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2315$
+$FAQ_CF_2363$
 </span>
 </dd>
 
@@ -275,14 +252,37 @@ $FAQ_CF_2315$
 <div class="detail_mod activity_info" style="margin: -1px 0px 0px; padding: 30px 55px; border: 1px solid #dddddd; zoom: 1; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14px; font-family: 'microsoft yahei', simsun, sans-serif;">
 
 <h2 class="mod_title" style="margin: 0px 0px 20px -75px; padding: 0px 20px 0px 60px; height: 48px; color: #ffffff; background-color: #22b6d2; position: relative; width: 92px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 48px;">
-<strong>产品说明</strong>
+<strong>Cancellation</strong>
 </h2>
 
 <h1 style="margin: 0px 0px 5px; padding: 0px; list-style: none; font-size: 18px;">
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>是否含购物：</strong>
+<strong>Cancellation</strong>
+</span>
+</h1>
+
+
+<dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
+<span style="color: #696969;">
+$FAQ_CF_2365$
+</span>
+</dd>
+
+</div>
+
+<div class="detail_mod activity_info" style="margin: -1px 0px 0px; padding: 30px 55px; border: 1px solid #dddddd; zoom: 1; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14px; font-family: 'microsoft yahei', simsun, sans-serif;">
+
+<h2 class="mod_title" style="margin: 0px 0px 20px -75px; padding: 0px 20px 0px 60px; height: 48px; color: #ffffff; background-color: #22b6d2; position: relative; width: 92px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 48px;">
+<strong>Description</strong>
+</h2>
+
+<h1 style="margin: 0px 0px 5px; padding: 0px; list-style: none; font-size: 18px;">
+<span style="font-size: 20px;">
+<strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
+<span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
+<strong>It is</strong>
 </span>
 </h1>
 
@@ -297,7 +297,7 @@ $FAQ_CF_2214$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>是否及时确认：</strong>
+<strong>It is</strong>
 </span>
 </h1>
 
@@ -312,14 +312,14 @@ $FAQ_CF_2222$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>集合地点和时间说明：</strong>
+<strong>Pick up</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2311$
+$FAQ_CF_2353$
 </span>
 </dd>
 
@@ -327,14 +327,14 @@ $FAQ_CF_2311$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>集合方式：</strong>
+<strong>Departure Point</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2289$
+$FAQ_CF_2339$
 </span>
 </dd>
 
@@ -342,14 +342,14 @@ $FAQ_CF_2289$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>接送范围和超范围说明：</strong>
+<strong>Pickup Area Free</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2333$
+$FAQ_CF_2361$
 </span>
 </dd>
 
@@ -357,14 +357,14 @@ $FAQ_CF_2333$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>使用方法：</strong>
+<strong>How To Use</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2327$
+$FAQ_CF_2347$
 </span>
 </dd>
 
@@ -372,14 +372,14 @@ $FAQ_CF_2327$
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>费用包含和不包含补充说明：</strong>
+<strong>Additional For Fee</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2307$
+$FAQ_CF_2357$
 </span>
 </dd>
 
@@ -389,21 +389,21 @@ $FAQ_CF_2307$
 <div class="detail_mod activity_info" style="margin: -1px 0px 0px; padding: 30px 55px; border: 1px solid #dddddd; zoom: 1; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-size: 14px; font-family: 'microsoft yahei', simsun, sans-serif;">
 
 <h2 class="mod_title" style="margin: 0px 0px 20px -75px; padding: 0px 20px 0px 60px; height: 48px; color: #ffffff; background-color: #22b6d2; position: relative; width: 92px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 48px;">
-<strong>注意事项</strong>
+<strong>Attention</strong>
 </h2>
 
 <h1 style="margin: 0px 0px 5px; padding: 0px; list-style: none; font-size: 18px;">
 <span style="font-size: 20px;">
 <strong style="font-family: Arial, 'Lucida Grande', 'Microsoft Yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', SimSun, 'PingFang SC', STHeiti; font-size: 18px;">
 <span style="color: #ffcc00; font-family: 宋体;">◆</span></strong>
-<strong>注意事项：</strong>
+<strong>Attention</strong>
 </span>
 </h1>
 
 
 <dd style="margin: 0px; padding: 0px; list-style: none; line-height: 20px; color: #999999;">
 <span style="color: #696969;">
-$FAQ_CF_2313$
+$FAQ_CF_2367$
 </span>
 </dd>
 
